@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-Compound-Interest-Calculator/static/css/main.93549946.css",
+    "main.js": "/REACT-Compound-Interest-Calculator/static/js/main.c47f0866.js",
+    "static/js/787.ebd86aad.chunk.js": "/REACT-Compound-Interest-Calculator/static/js/787.ebd86aad.chunk.js",
+    "index.html": "/REACT-Compound-Interest-Calculator/index.html",
+    "main.93549946.css.map": "/REACT-Compound-Interest-Calculator/static/css/main.93549946.css.map",
+    "main.c47f0866.js.map": "/REACT-Compound-Interest-Calculator/static/js/main.c47f0866.js.map",
+    "787.ebd86aad.chunk.js.map": "/REACT-Compound-Interest-Calculator/static/js/787.ebd86aad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93549946.css",
+    "static/js/main.c47f0866.js"
+  ]
+}
